@@ -1,6 +1,10 @@
-# Project Name
+# Description
 
-> Project description
+> This is the Size Picker microservice for a sports apparel product page
+> Made with React, Node, Express, MongoDB 
+> Dockerized and deployed on AWS with CircleCI pipeline
+
+> See a demo of the project here https://www.youtube.com/watch?v=ZTMDcLJ7pqo
 
 ## Related Projects
 
@@ -10,22 +14,14 @@
 
 ## Table of Contents
 
-1. [Description](#Description)
 1. [Requirements](#requirements)
-1. [Development](#development)
-
-## Description
-
-> This is the Size Picker microservice. Made with the MERN stack. Dockerized and deployed on AWS with CircleCI pipeline.
-> See a demo of the project here https://www.youtube.com/watch?v=ZTMDcLJ7pqo
+1. [Run](#run)
 
 ## Requirements
 
 - Docker v3.1+
 
-## Development
-
-### Run App
+### Run
 
 From within the root directory:
 
