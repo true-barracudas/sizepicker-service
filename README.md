@@ -5,35 +5,31 @@
 ## Related Projects
 
   - https://github.com/true-barracudas/trackpinch-service
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/true-barracudas/suggestions-service
+  - https://github.com/true-barracudas/reviews-service
 
 ## Table of Contents
 
-1. [Usage](#Usage)
+1. [Description](#Description)
 1. [Requirements](#requirements)
 1. [Development](#development)
 
-## Usage
+## Description
 
-> Some usage instructions
+> This is the Size Picker microservice. Made with the MERN stack. Dockerized and deployed on AWS with CircleCI pipeline.
+> See a demo of the project here https://www.youtube.com/watch?v=ZTMDcLJ7pqo
 
 ## Requirements
 
-An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
-
-- Node 6.13.0
-- etc
+- Docker v3.1+
 
 ## Development
 
-### Installing Dependencies
+### Run App
 
 From within the root directory:
 
 ```sh
-npm install -g webpack
-npm install
+docker-compose up
 ```
 
