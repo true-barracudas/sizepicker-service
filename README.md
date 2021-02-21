@@ -2,6 +2,8 @@
 
 > This is the Size Picker microservice for a sports apparel product page. Made with React, Node, Express, MongoDB. Dockerized and deployed on AWS with CircleCI pipeline.
 
+> No external components or CSS modules used. All CSS written with Styled Components CSS-in-JS.
+
 > See a demo of the project here https://www.youtube.com/watch?v=ZTMDcLJ7pqo
 
 ## Related Projects
